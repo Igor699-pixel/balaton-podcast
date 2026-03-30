@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://igor699-pixel.github.io/balaton-podcast/sitemap.xml
